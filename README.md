@@ -3,8 +3,8 @@
 🧑‍🦲 I am a freelance frontend developer and web designer.
 
 🪛 **My go to tech-stack:**
-- Python Full Stack | Testing
-- React | React Native
+- Python Full Stack | Android Dev | Testing
+- React | React Native | Java | Kotlin
 - Framer motion
 - Contentful
 - TailwindCSS
