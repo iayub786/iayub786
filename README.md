@@ -15,9 +15,9 @@
 🙌 **Connect with me:**
 **Connect with me:**
 - Portfolio: https://iayub.netlify.app/
-- Linkedin: https://www.linkedin.com/in/shaik-ayub001
+- Linkedin: https://www.linkedin.com/in/ayub54/
 - Twitter X : https://twitter.com/A_Y_U_B_123
-- Instagram: https://www.instagram.com/explorewith__me_
+- Instagram: https://www.instagram.com/ishowayu6
 <!--
 **iAyubDev/iAyubDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
